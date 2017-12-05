@@ -1,0 +1,271 @@
+  /* index.html*/ 
+
+div.matthew ul#nav li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+div.matthew img {
+padding-left: 0px;
+}
+
+.matthew {
+  background-color:orange;
+padding-top: 10px;
+}
+
+.pic2 {
+  border: dashed;
+}
+
+.real {
+  margin-left: 50px;
+  font-size: 25px;
+  color: green;
+}
+
+
+.tagline {
+border: dotted;
+border-color: gray; 
+position: relative;
+text-align: center;
+font-size: 180%;
+font-family: arialblack;
+background-color: darkgray;
+color: white;
+font-weight: bold;
+}
+
+#welcomeimg {
+  width: 100%;
+  height: 500px;
+  position: relative;
+  margin-bottom: 2%;
+}
+
+#welcomeimg2{ 
+ width: 50%;
+ float: right;
+ padding-right: 20px;
+ padding-top: 20px;
+}
+
+#description{
+  font-family: "times new roman";
+  font-size: 30px;
+}
+
+/* about.html*/ 
+
+#info{
+ position: relative;
+  left: 49.8%;
+}
+
+#info2{
+  position: relative;
+  bottom: 21%;
+  left: 0%;
+  font-size: 80%
+}
+
+.info3{
+  position: relative;
+  bottom: 3%;
+  left: 20%;
+  top:100%;
+  font-size:90%;
+}
+
+#info4{
+  position: relative;
+  left: 3%;
+  bottom: 21%;
+  font-size: 80%;
+}
+
+#info5 {
+  position: relative;
+  left: 3%;
+  bottom: 39%;
+  font-size:90%;
+}
+
+.images {
+  width: 50%;
+  border: solid;
+  display: inline;
+  margin-top: 1%;
+}
+
+/*contact.html*/ 
+
+#feedback{
+  width: 80%; 
+}
+
+.form {
+  position: relative;
+  bottom: 5em;
+  left: 3.27%;
+  padding-left: 2%;
+  font-size: 20px;
+  block-size: 12%;
+}
+
+.form-info {
+  list-style-type: none;
+  position: relative;
+  left: 30%;
+  bottom: 1%;
+  top: 100%;
+}
+
+#name, #email  {
+  font-size: 70%;
+  font-family: "times new roman";
+  position: relative;
+  bottom: 2%;
+}
+
+#send{
+  position: relative;
+  top: 50%;
+  font-size: 100%;
+  background-color: orange;
+  border: dashed;
+  }
+
+#p{
+  font-size: 100%;
+}
+
+#message {
+  font-family: "times new roman";
+  left: 5%;
+  width: 30%;
+}
+
+.textbox{
+  border: dashed;
+  width: 30%;
+}
+
+#follow {
+  font-size: 30px;
+  position: relative;
+  bottom: 150%;
+}
+
+#fb{
+  border: solid;
+  position: relative;
+  bottom: 150%;
+  left: 20px;
+  border-radius:10px;
+  width: 5%;
+  min-width: 50px;
+}
+
+#tweet{
+  position: relative;
+  bottom: 150%;
+  left: 50px;
+  border: solid;
+  border-radius: 10px;
+  width: 5%;
+  min-width: 50px;
+}
+
+.textbox,.form{
+  display: inline;
+}
+
+/*delivery.html*/ 
+
+
+.details {
+  background-color: white;
+  font-size: 20px;
+  position: relative;
+  top: 50px;
+  font-size: 25px;
+  border: solid;
+  border-width: 15px;
+  text-align: left;
+  padding-top: 20px;
+}
+
+
+/*Locations.html*/ 
+
+#foder{
+position: relative;
+text-align:center;
+top: 50px;
+}
+
+.table{
+margin: 0 auto;
+width: 50%;
+background-color: orange;
+font-family: arialblack;
+border-color: green;
+font-size: 100%;
+margin-top: 25px;
+}
+
+@media only screen and (min-width: 20px) and (max-width: 5000px) {
+  .table{
+    
+  }
+}
+
+.table1{
+margin: 0 auto;
+width: auto;
+background-color:orange;
+font-family:arialblack;
+border-color: green;
+margin-top:80px;
+font-size: 20px;
+}
+
+/*menu.html*/ 
+
+#table2{
+  position: relative;
+  bottom: 6%;
+}
+
+.table3{
+  border-style:solid;
+}
+
+#foodpics {
+ width: 100%;
+ min-width: 100%;
+}
+
+.plates{
+  font-size:110%;
+}
+
+/*other*/
+
+body{
+  background-color:rgb(117, 232, 109);
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.foder{
+  text-align: center;
+  padding: 2%;
+}
+
+#foter{
+  position:relative;
+  top: 3.2em;
+}
