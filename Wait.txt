@@ -1,8 +1,0 @@
-        <div class="shai">
-            <a href="file:///E:/Site/index.html">HOME</a>
-            <a class="real">MENU</a>
-            <a class="real">ABOUT</a>
-            <a class="real">DELIVERY</a>
-            <a class="real">LOCATIONS</a>
-            <a class="real">CONTACT</a>
-        </div>
